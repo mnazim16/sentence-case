@@ -8,7 +8,7 @@ function change(charm) {
     return change;
 }
 
-var x = document.getElementsByTagName("P");
+var x = document.getElementsByTagName("p");
 var i;
 for (i = 0; i < x.length; i++) {
 var divi =document.getElementsByTagName('p')[i].innerHTML;
